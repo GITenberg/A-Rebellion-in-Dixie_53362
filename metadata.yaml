@@ -10,6 +10,9 @@ contributor:
     deathdate: 1898
     gutenberg_agent_id: '33888'
     url: http://www.gutenberg.org/2009/agents/33888
+covers:
+- cover_type: archival
+  image_path: 53362-h/images/cover.jpg
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '2274'
     url: http://www.gutenberg.org/2009/agents/2274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53362#A-Rebellion-in-Dixie
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2016-10-25'
 gutenberg_type: Text
